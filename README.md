@@ -5,6 +5,7 @@
 
 - 📫 How to reach me **anjanasoni2313854@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=priyanshi-2001&color=62D2A2&style=plastic&label=PROFILE+VIEWS)
 
 <p align="left">
 </p>
