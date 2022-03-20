@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Html, CSS, Javascript, C++ and Mern Stack**
 
-- 📫 How to reach me **anjanasoni2313854@gmail.com**
+- 📫 Feel free to contact me **anjanasoni2313854@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=priyanshi-2001&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
