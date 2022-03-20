@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshi Soni</h1>
+<h1 align="center">Hi 👋, Glad to see you here.</h1>
+<h2 align="center">I'm Priyanshi Soni</h2>
 <h3 align="center">👨🏻‍🎓 Student at Lovely Professional University</h3>
 
 - 💬 Ask me about **Html, CSS, Javascript, C++ and Mern Stack**
