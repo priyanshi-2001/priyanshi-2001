@@ -14,6 +14,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshi-2001&show_icons=true&locale=en&layout=compact" alt="priyanshi-2001" /></p>
 
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=priyanshi-2001&theme=react-dark&bg_color=0B5DD5&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=ffb300"> <br>
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshi-2001&show_icons=true&locale=en" alt="priyanshi-2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-2001&" alt="priyanshi-2001" /></p>
