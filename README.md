@@ -14,9 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshi-2001&show_icons=true&locale=en&layout=compact" alt="priyanshi-2001" /></p>
 
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=priyanshi-2001&theme=react-dark&bg_color=00000000&color=0B5DD5&line=2A5AA0&point=083B85&area=true&hide_border=true&area_color=4D84D3"> <br>
-</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshi-2001&show_icons=true&locale=en" alt="priyanshi-2001" /></p>
 
