@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=priyanshi-2001&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dee-hegde" alt="dee-hegde" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi-2001" alt="priyanshi-2001" /></a> </p>
 
 <p align="left">
 </p>
