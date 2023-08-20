@@ -2,7 +2,7 @@
 <h2 align="center">I'm Priyanshi Soni</h2>
 <h3 align="center">👨🏻‍🎓 Student at Lovely Professional University</h3>
 
-- 💬 Ask me about **Html, CSS, Javascript, C++ and Mern Stack**
+- 💬 Ask me about **JavaScript,Django,Python,C++ and Mern Stack**
 
 ![](https://komarev.com/ghpvc/?username=priyanshi-2001&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 <br/>
